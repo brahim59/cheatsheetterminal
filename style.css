@@ -2,11 +2,41 @@ div
 {
 display: inline-block;
 display: table-cell;
-	}
-li
+}
+h2
 {
- 	display:inline;
- 	list-style:none; /* pour enlever les puces sur */
- 	margin: 10px;
+	color:black;
+}
+<h2 class=""></h2>
+html{
+	color:orange;
 }
 
+body
+
+{ 
+	background-color:blue;
+
+
+
+}	
+p
+{
+    color: black;
+    background-color: orange;
+    
+    border-collapse: collapse
+    
+}
+
+li
+{
+	background-color: green;
+
+}
+ul
+{
+	background-color:grey;
+	list-style-type:none;
+
+}
