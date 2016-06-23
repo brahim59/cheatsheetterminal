@@ -1,0 +1,12 @@
+div
+{
+display: inline-block;
+display: table-cell;
+	}
+li
+{
+ 	display:inline;
+ 	list-style:  none; /* pour enlever les puces sur */
+ 	margin: 10px;
+}
+
