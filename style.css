@@ -1,42 +1,57 @@
 div
 {
 display: inline-block;
-display: table-cell;
+display: table-cell;	
+
+
+  
 }
-h2
+#footer {          
+    position: relative;
+    bottom: 0;
+       }
+
+
+h1
 {
 	color:black;
-}
-<h2 class=""></h2>
-html{
-	color:orange;
+	text-align: center;
+	
+	
 }
 
-body
+
+body                   /*contents text */
 
 { 
-	background-color:blue;
+	background-color: #74AFAD;
 
 
 
 }	
 p
-{
+{                        /* control response */
+	text-align: center;
+	
     color: black;
-    background-color: orange;
-    
-    border-collapse: collapse
-    
+    background-color: #D9853B;
+    padding-bottom: 2px;
+    padding-top: 2px;
+   	
+   	
 }
 
-li
+li                       /* different command terminal */
 {
-	background-color: green;
+	background-color: #ECECEA;
+	text-align: center;
 
 }
-ul
+ul                     /* colonne */
 {
-	background-color:grey;
+	background-color:#558C89
+;
 	list-style-type:none;
+	text-align: center;
 
 }
