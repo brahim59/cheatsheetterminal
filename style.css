@@ -55,3 +55,12 @@ ul                     /* colonne */
 	text-align: center;
 
 }
+          /* responsive */
+
+   @media screen and (max-width: 780px)
+{
+     div
+     {
+     display: block;
+     }
+}
